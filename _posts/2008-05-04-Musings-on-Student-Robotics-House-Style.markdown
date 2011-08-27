@@ -1,0 +1,11 @@
+---
+layout: post
+title: Musings on Student Robotics House Style
+---
+A house style gives all the publications from an organisation a consistent look &amp; feel. When Student Robotics started <a href="http://www.nh-it.co.uk/">Russell Newman</a> put together a set of posters, logos and letterheads in a consistant style - see <a href="http://svn.studentrobotics.org/media/house-style/">http://svn.studentrobotics.org/media/house-style/</a> and the <a href="http://www.studentrobotics.org/">website in general</a>. These look fantastic - thanks again to Russell. We tried to keep with this style - <a href="http://svn.studentrobotics.org/media/Recruitment/">http://svn.studentrobotics.org/media/Recruitment/</a> contains a few bits.
+
+Working with this house style gives great looking results, but is a lot of work.  The designs were originally done in Coral Draw, an excellent DTP package (which most people don't have access to). Working on them is really hard work on a computer, and the PDFs that we produce from them will happily crash most printers! We need to make a decision as to whether it is worth moving forward using these templates or change to a different solution.
+
+There are a few options as I see it:
+<ul><li>Get hold of Coral Draw, or rely on the ECS machines that run it, and stick with the current style. Hard work, looks great.
+</li><li>Move to a Microsoft Word or similar based house style. A bit of a pain to get started with creating templates etc, and I can't see it looking as good as the Coral ones (DTP and Word Processing are intrinsically different tasks and no package is any good at both)</li><li>Abandon the concept of house style all together, just whack the logo on whatever and roll with it.</li></ul>I don't know the answer - I love the materials that we produced last year but hated having to sit up in UGLabs to produce them on the Uni machines. If the decision is between producing something outside the house style or producing nothing the answer is obvious - what do you think?<div class="blogger-post-footer"><img width='1' height='1' src='https://blogger.googleusercontent.com/tracker/6550447907550133610-5371538650858175067?l=www.secomputing.co.uk' alt='' /></div>
