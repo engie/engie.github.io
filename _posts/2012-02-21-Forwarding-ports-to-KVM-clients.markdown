@@ -31,7 +31,7 @@ You then have to specify that this domain will use extra commands from a special
 to:
     <domain type='kvm' xmlns:qemu='http://libvirt.org/schemas/domain/qemu/1.0'>
 
-Then add a some override parameters to be passed straight through to the QEMU command line. Here I'm forwarding port 1234 on the host to port 3389 on the VM:
+Then add a some override parameters to be passed straight through to the QEMU command line. Here I'm forwarding port 1234 on the host to port 3389 on the VM (make this block immediately under the <domain> node):
     <qemu:commandline>
         <qemu:arg value='-redir'/>
         <qemu:arg value='tcp:1234::3389'/>
