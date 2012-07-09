@@ -3,6 +3,7 @@ layout: post
 title: Network Rail data decoded
 ---
 Network Rail have recently released [a set of data feeds](https://datafeeds.networkrail.co.uk). These give free access to:
+
  * Train movements - Where the trains are
  * Train describer - The Return Of The Train Locations
  * VSTP - Very Short Term Planning - Short term schedule updates
