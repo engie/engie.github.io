@@ -21,7 +21,7 @@ title: GitHub on KVM
 It's worth noting that GitHub *do not* support running GitHub Enterprise under the KVM hypervisor.
 
 ### Expanding Disk Image (added 2012/07/20)
-The disk image can also be converted to RAW format with qemu-img, and they written directly to an LVM volume (using dd), then the virtual machine can boot off that. If more space is required in the GitHub machine then you can:
+The disk image can also be converted to RAW format with qemu-img, and then written directly to an LVM volume (using dd), then the virtual machine can boot off that. If more space is required in the GitHub machine then you can:
 1. Copy the 10GB RAW image into a Volume Group that is bigger - say 100GB
 1. Boot up GitHub & log in with SSH
 1. Run ghe-grow-root -d /dev/vda6
