@@ -27,4 +27,4 @@ The disk image can also be converted to RAW format with qemu-img, and then writt
 1. Boot up GitHub & log in with SSH
 1. Run ghe-grow-root -d /dev/vda6
 
-This should make GitHub all the available disk space.
+This should make GitHub use all the available disk space.
