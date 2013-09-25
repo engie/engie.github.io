@@ -15,7 +15,7 @@ body {
   color: #333; }
   #header .inner {
     text-align: left;
-    width: 725px;
+    width: 920px;
     margin: auto; }
   #header ul {
     float: right;
@@ -45,7 +45,7 @@ body {
 
 #content .inner {
   text-align: left;
-  width: 725px;
+  width: 920px;
   margin: auto; }
 
 .post {
@@ -80,7 +80,7 @@ body {
   color: #333; }
   #footer .inner {
     text-align: left;
-    width: 725px;
+    width: 920px;
     margin: auto; }
   #footer h3 {
     font-size: 24px;
