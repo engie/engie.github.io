@@ -1,8 +1,0 @@
-markdown: rdiscount
-auto: true
-permalink: pretty
-exclude:
-  - start.sh
-  - Rakefile
-  - pids
-  - stop.sh
